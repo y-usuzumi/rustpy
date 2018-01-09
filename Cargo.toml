@@ -1,0 +1,8 @@
+[package]
+name = "rustpy"
+version = "0.1.0"
+authors = ["Kenneth Zhao <kenneth.zhao@netis.com.cn>"]
+build = "build.rs"
+
+[dependencies]
+libc = "0.2.0"
